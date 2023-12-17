@@ -3,7 +3,7 @@
 - type: github
   icon: "fab fa-github"
 
-- type: facebook
+- type: twitter
   icon: "fa-brands fa-facebook"
 
 - type: email
@@ -15,9 +15,9 @@
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+- type: facebook
+  icon: "fa-brands fa-facebook"   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.facebook.com/profile.php?id=61552202857027'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
