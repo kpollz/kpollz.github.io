@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: vi
+lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Saigon
@@ -14,7 +14,7 @@ timezone: Asia/Saigon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tùng Vũ # the main title
+title: Vu Tung # the main title
 
 tagline: Đẹp trai mà nhát gái # it will display as the sub-title
 
@@ -29,16 +29,16 @@ github:
   username: kpollz # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: David Comp # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Vũ Đình Tùng
+  name: Vu Dinh Tung
   email: vutung2001@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.facebook.com/profile.php?id=61552202857027 # change to your twitter homepage
     - https://github.com/kpollz # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
